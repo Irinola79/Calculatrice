@@ -20,6 +20,8 @@ button {
 }
 
 button[value="C"] {
+    width: 80%;
+    height:200%;
     background-color: #ff5733; 
     color: #fff;
 }
