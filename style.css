@@ -20,13 +20,14 @@ button {
 }
 
 button[value="C"] {
-    width: 80%;
-    height:200%;
+   
     background-color: #ff5733; 
     color: #fff;
 }
 
 button[value="="] {
+    width: 80%;
+    height:200%;
     background-color: #337ab7; 
     color: #fff;
 }
